@@ -1,6 +1,6 @@
 # Watphakeaw
 
- **IN MY CODE HAVE A THAT COMMEMT**
+ **IN MY CODE HAVE A THAI COMMEMT**
 
 In my rep, including
 1) .php file
