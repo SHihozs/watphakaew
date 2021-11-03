@@ -8,7 +8,7 @@ In my rep, including
 
 for testing in your computer
 1) using xampp for apache 
-2) use url *localhost/your folder in htdoc for keep all file/homenew.php
+2) use url localhost/your folder in htdoc for keep all file/homenew.php
 
 *This rep is my school project.
 
