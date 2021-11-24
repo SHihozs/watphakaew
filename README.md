@@ -9,11 +9,11 @@
 
 # for testing in your computer
   1) using xampp for apache 
-  2) use url localhost/your folder in htdoc for keep all file/homenew.php
+  2) use URL localhost/your folder in htdoc to keep all file/homenew.php
 
 # NOTE
- - IN MY CODE HAVE A THAI COMMEMT
+ - IN MY CODE HAVE A THAI COMMENT
  - This rep is my school project.
- - I attached some example website but it's include thai and english language.
+ - I attached some example websites but it includes Thai and English language.
 
 
